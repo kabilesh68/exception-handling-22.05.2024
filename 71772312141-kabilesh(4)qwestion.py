@@ -35,3 +35,18 @@ except NumberTooSmall as nts :
    print(nts.get_details( ))
 finally :
    n.display( )
+  output:
+5
+6
+8
+9
+12
+10
+2
+{'Number too small':2}
+5 123
+6 216
+8 512
+9 729
+12 1728
+10 1000
